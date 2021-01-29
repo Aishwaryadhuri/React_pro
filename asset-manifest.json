@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Aishwaryadhuri/React_pro.git/static/css/main.e231b07f.chunk.css",
+    "main.js": "/Aishwaryadhuri/React_pro.git/static/js/main.4ad2d073.chunk.js",
+    "main.js.map": "/Aishwaryadhuri/React_pro.git/static/js/main.4ad2d073.chunk.js.map",
+    "runtime-main.js": "/Aishwaryadhuri/React_pro.git/static/js/runtime-main.c301eced.js",
+    "runtime-main.js.map": "/Aishwaryadhuri/React_pro.git/static/js/runtime-main.c301eced.js.map",
+    "static/js/2.e1eb75bc.chunk.js": "/Aishwaryadhuri/React_pro.git/static/js/2.e1eb75bc.chunk.js",
+    "static/js/2.e1eb75bc.chunk.js.map": "/Aishwaryadhuri/React_pro.git/static/js/2.e1eb75bc.chunk.js.map",
+    "static/js/3.2514b030.chunk.js": "/Aishwaryadhuri/React_pro.git/static/js/3.2514b030.chunk.js",
+    "static/js/3.2514b030.chunk.js.map": "/Aishwaryadhuri/React_pro.git/static/js/3.2514b030.chunk.js.map",
+    "index.html": "/Aishwaryadhuri/React_pro.git/index.html",
+    "static/css/main.e231b07f.chunk.css.map": "/Aishwaryadhuri/React_pro.git/static/css/main.e231b07f.chunk.css.map",
+    "static/js/2.e1eb75bc.chunk.js.LICENSE.txt": "/Aishwaryadhuri/React_pro.git/static/js/2.e1eb75bc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c301eced.js",
+    "static/js/2.e1eb75bc.chunk.js",
+    "static/css/main.e231b07f.chunk.css",
+    "static/js/main.4ad2d073.chunk.js"
+  ]
+}
